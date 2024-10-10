@@ -10,5 +10,3 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.get("/", (req, res) => {
     res.render("index");
 });
-
-const words = "adding a random variable to test git";
