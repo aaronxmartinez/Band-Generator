@@ -39,6 +39,10 @@ input {
     border-radius: 5px;
 }
 
+input:hover {
+    background-color: rgb(50, 49, 49);
+}
+
 footer {
     position: absolute;
     bottom: 0;
