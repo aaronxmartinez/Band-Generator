@@ -2,3 +2,7 @@ body {
     background-color: black;
     color: lightpink;
 }
+
+h1 {
+    font-size: 3.5rem;
+}
