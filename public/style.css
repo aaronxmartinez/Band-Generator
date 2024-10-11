@@ -7,6 +7,14 @@ h1 {
     font-size: 3.5rem;
 }
 
+input {
+    appearance: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
 footer {
     position: absolute;
     bottom: 0;
