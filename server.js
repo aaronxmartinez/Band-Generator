@@ -16,6 +16,9 @@ app.get("/", (req, res) => {
     res.render("index");
 });
 
+app.post("/submit", (req, res) => {
+});
+
 app.listen(port, () => {
     console.log("Server listening on port " + port);
 });
