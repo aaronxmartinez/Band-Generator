@@ -32,6 +32,11 @@ input {
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    background-color: black;
+    color: lightpink;
+    padding: 10px;
+    border: solid lightpink 2px;
+    border-radius: 5px;
 }
 
 footer {
